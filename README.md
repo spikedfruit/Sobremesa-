@@ -9,7 +9,7 @@ A new way to movie night
   -custom HTML video player using HTML5 <video> elements
 - Built in chat :x:
 
-  -both realtime and save comments
+  -both realtime and saved comments
 - Server Hosting :x:
   - Jellyfin Integration :x:
 
